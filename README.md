@@ -1,5 +1,7 @@
 # COP3330C-Module6
 
+Andrew Layton - CEN3024C - CRN26663
+
 This program serves two purposes: the first part returns the index in an array where a particular element
 is located, and the second part runs a custom method to determine which of two objects contains
 a larger integer.
